@@ -171,6 +171,7 @@ call <sid>hi('Visual', s:cdNone, s:cdSelection, 'none', {})
 call <sid>hi('VisualNOS', s:cdNone, s:cdSelection, 'none', {})
 call <sid>hi('WarningMsg', s:cdOrange, s:cdBack, 'none', {})
 call <sid>hi('WildMenu', s:cdNone, s:cdSelection, 'none', {})
+call <sid>hi('Whitespace', s:cdLeftLight, s:cdNone, 'none', {})
 
 call <sid>hi('Comment', s:cdGreen, {}, 'none', {})
 
